@@ -1,0 +1,51 @@
+/* Selector por etiqueta */
+
+h1{
+    background-color: rgb(51, 138, 141);
+    color:rgb(240, 245, 245);
+    font-size: 1.5rem;
+    padding: 100px,50px,75px,200px;
+    
+}
+ol{
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 59, 68);
+}
+ul{
+    color: rgb(15, 2, 2);
+   
+}
+a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(1, 5, 8);
+}
+body{
+    font-family:cursive;
+    font-size: 16px;
+}
+
+/* Selector por Id  */
+#destacado{
+    color:rgb(7, 93, 119);
+}
+#subsalir{
+    color: blueviolet;
+}
+#nombre{
+    color:rgba(0, 0, 0, 0.719);
+}
+
+/* Selector por Clase */
+.perfil{
+    color: rgb(0, 68, 255);
+}
+.foto{
+    width: 15%;
+}
+.seccion{
+    background-color:#ccc;
+}
+.formacion{
+    color: rgb(211, 51, 51);
+    font-size: italic;
+}
